@@ -1,0 +1,21 @@
+.tasks {
+    max-width: 96vw !important;
+    margin:  auto !important;
+    margin-top: 32px !important;
+}
+
+button {
+    margin-left: 5px !important;
+}
+
+.card {
+    margin-top: 10px;
+}
+
+.column-title {
+    text-align: center;
+}
+
+.save-edits-button {
+    margin: 10px 0 0 0 !important;
+}
